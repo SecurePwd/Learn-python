@@ -1,0 +1,3 @@
+Learning Objectives:
+
+Learn inheritance, polymorphism, and encapsulation.
