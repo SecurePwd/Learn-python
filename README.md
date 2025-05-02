@@ -103,12 +103,7 @@ If you'd like to contribute to this project, feel free to fork this repository a
 
 ### How to Contribute:
 
-1. Fork this repository.
-2. Create a branch (`git checkout -b feature/your-feature`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add your feature'`).
-5. Push to your forked repository (`git push origin feature/your-feature`).
-6. Open a pull request.
+1. Use git clone: 'git clonehttps://github.com/SecurePwd/Learn-python/tree/main'
 
 ## License
 
