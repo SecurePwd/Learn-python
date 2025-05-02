@@ -1,0 +1,3 @@
+Learning Objectives:
+
+Read and write to files.
