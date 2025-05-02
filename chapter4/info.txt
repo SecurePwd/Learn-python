@@ -1,0 +1,4 @@
+Week 7-8: Data Structures
+Learning Objectives:
+
+Learn basic data structures: lists, tuples, sets, dictionaries.
