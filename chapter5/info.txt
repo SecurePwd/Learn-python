@@ -1,1 +1,5 @@
 
+Week 13-14: Introduction to OOP
+Learning Objectives:
+
+Understand classes, objects, and the self keyword.
